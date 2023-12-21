@@ -1,10 +1,10 @@
 # 8-puzzle-using-BFS-DFS-and-A-
 This is an AI project that aims to implement 8 - puzzle game using 3 algorithms: Breadth- first search, Depth first search and A* with two heuristics: Manhattan distance and Euclidean distance
 
-This problem appeared as a project in the edX course ColumbiaX: CSMM.101x Artificial Intelligence (AI). In this assignment an agent will be implemented to solve the 8-puzzle game.
+This problem appeared as a project in the edX course ColumbiaX: CSMM.101x Artificial Intelligence (AI). In this assignment an agent will be implemented to solve the 8-puzzle game.
 An instance of the 8-puzzle game consists of a board holding 8 distinct movable tiles, plus
 an empty space. For any such board, the empty space may be legally swapped with any tile
-horizontally or vertically adjacent to it. In this assignment, the blank space is going to be
+horizontally or vertically adjacent to it. The blank space is going to be
 represented with the number 0.
 Given an initial state of the board, the search problem is to find a sequence of moves that transitions this state to the goal state; that is, the configuration with all tiles arranged in ascending
 order 0,1,2,3,4,5,6,7,8 .
